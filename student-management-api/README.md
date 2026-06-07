@@ -325,3 +325,6 @@ The API uses proper HTTP response codes to denote the state of requests:
 | **`400`** | **Bad Request** | Payload validation failed or bad parameters. |
 | **`404`** | **Not Found** | Student record or endpoint route does not exist. |
 | **`500`** | **Internal Server Error** | Unexpected error on server side. |
+
+
+> **By @Sumanth Csy**
