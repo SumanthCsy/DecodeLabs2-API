@@ -1,0 +1,21 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "A professional Student Management API developed with Node.js and Express.js for internship submission.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "api",
+    "student-management",
+    "internship"
+  ],
+  "author": "Sumanth Csy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
